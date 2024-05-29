@@ -9,11 +9,7 @@
 }
 
 // Test examples
-console.log(indexOfIgnoreCase("Hello World", "world")); // Output: 6
-console.log(indexOfIgnoreCase("apple", "Ple"));         // Output: 2
-console.log(indexOfIgnoreCase("test", "aaa"));          // Output: -1
 
-  // write your code here
 }
 
 // Please do not change the code below
